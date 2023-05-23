@@ -1,0 +1,8 @@
+# vscode config
+.vscode
+
+# project config
+config.toml
+
+# chore
+.DS_Store

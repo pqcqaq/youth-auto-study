@@ -1,0 +1,11 @@
+[profile.url]
+accessToken="https://qczj.h5yunban.com/qczj-youth-learning/cgi-bin/login/we-chat/callback"
+lastInfo="https://qczj.h5yunban.com/qczj-youth-learning/cgi-bin/user-api/course/last-info"
+currentCourse="https://qczj.h5yunban.com/qczj-youth-learning/cgi-bin/common-api/course/current"
+join="https://qczj.h5yunban.com/qczj-youth-learning/cgi-bin/user-api/course/join"
+userInfo="https://qczj.h5yunban.com/qczj-youth-learning/cgi-bin/user-api/info"
+image="https://qczj.h5yunban.com/qczj-youth-learning/cgi-bin/common-api/course/current?accessToken="
+
+[profile.other]
+wxAppId="wx56b888a1409a2920"
+UA="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 NetType/WIFI MicroMessenger/7.0.20.1781(0x6700143B) WindowsWechat(0x6309001c) XWEB/6500"
